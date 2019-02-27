@@ -11,7 +11,7 @@ This repository consists of work done in Machine Learning and Signal Processing.
 * Manifold Learning 
 * Hashing   
 
-##Signal Processing Stage consists of: 
+## Signal Processing Stage consists of: 
 * Source Separation 
 * Stereo Matching 
 * Audio Processing 
